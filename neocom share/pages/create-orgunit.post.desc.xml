@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Креирај организациона единица</shortname>
+  <description>Креирај организациона единица во архивата</description>
+  <url>/create-orgunit</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

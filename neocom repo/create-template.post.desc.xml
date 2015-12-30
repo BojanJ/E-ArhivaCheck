@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Create template</shortname>
+  <description>Creates a new template in the proper org. unit</description>
+  <url>/neocom/create-template</url>
+  <format default="json" />
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

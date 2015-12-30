@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Креирај архивски знак</shortname>
+  <description>Креирај архивски знак во архивата</description>
+  <url>/create-archive-sign</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

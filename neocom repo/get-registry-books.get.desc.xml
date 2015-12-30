@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Својства за деловондик</shortname>
+	<description>Скрипа која ги чита деловодниците од архивата</description>
+	<url>/neocom/get-registry-books.json</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

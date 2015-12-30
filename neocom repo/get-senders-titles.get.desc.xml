@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Испраќачи и наслови на документ</shortname>
+	<description>Скриптата ги листа сите единствени испраќачи и наслови за активен деловодник</description>
+	<url>/neocom/get-senders-titles.json</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

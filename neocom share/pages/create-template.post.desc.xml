@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Креирај организациона подединица</shortname>
+  <description>Креирај организациона подединица во архивата</description>
+  <url>/create-template</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Групи по корисник</shortname>
+	<description>Скрипа листа групите за даден корисник</description>
+	<url>/neocom/get-groups.json</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

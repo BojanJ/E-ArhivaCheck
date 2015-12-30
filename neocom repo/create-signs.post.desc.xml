@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Креирање архивски знаци</shortname>
+  <description>Креира архивски знаци за даден деловодник</description>
+  <url>/neocom/create-signs</url>
+  <format default="json" />
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

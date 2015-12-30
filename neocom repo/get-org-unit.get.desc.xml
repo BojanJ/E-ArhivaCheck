@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Организациски единици</shortname>
+	<description>Скрипа која чита орханизациски единици од архивски знаци од архивата</description>
+	<url>/neocom/get-org-unit.json</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

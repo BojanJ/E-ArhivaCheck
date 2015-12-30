@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Уреди архивиран документ</shortname>
+  <description>Уреди архивиран документ</description>
+  <url>/edit-archive-doc</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

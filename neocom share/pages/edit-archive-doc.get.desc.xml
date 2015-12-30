@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Уредување на заведен документ</shortname>
+  <description>Креирње на нов документ со изменети вредности и сторнирање на стариот документ</description>
+  <url>/edit-archive-doc</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

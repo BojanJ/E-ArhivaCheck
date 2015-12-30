@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Архивирај документ</shortname>
+  <description>Архивирај документ</description>
+  <url>/archive-doc</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

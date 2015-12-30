@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Креирај репорт</shortname>
+  <description>Креирај репорт од архивата</description>
+  <url>/create-report</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

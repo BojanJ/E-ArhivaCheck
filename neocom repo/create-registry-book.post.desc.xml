@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Create Registry Book</shortname>
+  <description>Creates a new registry book in the proper archive</description>
+  <url>/neocom/create-registry-book</url>
+  <format default="json" />
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Интерна доставна книга</shortname>
+  <description>Извештај за интерна доставна книга</description>
+  <url>/delivery-book</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

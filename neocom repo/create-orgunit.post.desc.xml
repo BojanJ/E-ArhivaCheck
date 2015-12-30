@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Create Org. Unit</shortname>
+  <description>Creates a new org. unit in the proper archive</description>
+  <url>/neocom/create-orgunit</url>
+  <format default="json" />
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

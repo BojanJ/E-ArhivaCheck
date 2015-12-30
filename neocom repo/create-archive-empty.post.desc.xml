@@ -1,0 +1,8 @@
+<webscript>
+	<shortname>Documents archive</shortname>
+	<description>Archiving</description>
+	<url>/neocom/create-archive-empty</url>
+	<format default="json" />
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

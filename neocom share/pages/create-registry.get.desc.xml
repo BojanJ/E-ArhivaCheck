@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Креирај деловодник</shortname>
+  <description>Креирај деловодник во архивата</description>
+  <url>/create-registry</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

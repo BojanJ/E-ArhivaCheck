@@ -1,0 +1,8 @@
+<webscript>
+	<shortname>Modify Document</shortname>
+	<description>Modify archived document</description>
+	<url>/neocom/modify-document</url>
+	<format default="json" />
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Архивски знаци</shortname>
+	<description>Фолдер архивски знаци</description>
+	<url>/neocom/get-archive-sign.json</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

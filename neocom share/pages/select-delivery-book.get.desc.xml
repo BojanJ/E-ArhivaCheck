@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Креирај интерна доставна книга</shortname>
+  <description>Креирај извештај за интерна доставна книга</description>
+  <url>/select-delivery-book</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Креирање на архивски знаци</shortname>
+  <description>Креирање архивски знаци за деловодник</description>
+  <url>/create-signs</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

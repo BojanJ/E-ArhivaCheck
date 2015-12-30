@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>${msg("form.shortname")}</shortname>
+  <description>${msg("form.description")}</description>
+  <url>/archive-doc</url>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+</webscript>

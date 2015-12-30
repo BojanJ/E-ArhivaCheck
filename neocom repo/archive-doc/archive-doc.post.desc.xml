@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Documents archive</shortname>
+    <description>Archiving</description>
+    <family>Share</family>
+    <url>/archive-doc</url>
+  	<authentication>user</authentication>
+</webscript>

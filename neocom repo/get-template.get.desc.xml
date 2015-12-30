@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Организациски подединици</shortname>
+	<description>Скрипа која чита организациски подединици од организационите единици од архивата</description>
+	<url>/neocom/get-template?nodeRef={ref}</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

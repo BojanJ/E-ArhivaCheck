@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Својства за регистер</shortname>
+	<description>Скрипа која ги чита документите од деловодник</description>
+	<url>/neocom/get-report-books</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

@@ -1,0 +1,8 @@
+<webscript>
+	<shortname>Најди архива</shortname>
+	<description>Скрипа која враќа во која архива (site) припаѓа најавениот корисник</description>
+	<url>/neocom/get-site</url>
+	<format default="json">argument</format>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

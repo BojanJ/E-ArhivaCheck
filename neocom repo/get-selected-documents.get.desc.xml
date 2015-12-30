@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Листајне на документи</shortname>
+	<description>Скрипа која ги чита документите од дадена папка за понатамосно уредување</description>
+	<url>/neocom/get-selected-documents</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

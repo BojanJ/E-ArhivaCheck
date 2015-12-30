@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Вкупен број на ставки во деловодник</shortname>
+	<description>За селектиран деловодник се зема колкав е бројот на ставки</description>
+	<url>/neocom/get-records?nodeRef={ref}</url>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>
